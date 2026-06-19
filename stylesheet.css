@@ -53,7 +53,7 @@ header{
   rgba(0, 0, 0, 0.5),
   rgba(0, 0, 0, 1)
     ),
-    url("Images.html/Pratteln_Image.jpg");
+    url("Images/Pratteln_Image.jpg");
 
   background-repeat: no-repeat;
   background-size: cover;
