@@ -139,19 +139,19 @@ footer{
     border-radius: 15px 15px 0 0;
 }
 .Sandi{
-    background-image: url(Images.html/Sandgrube_Image.jpg);
+    background-image: url(Images/Sandgrube_Image.jpg);
 }
 .Jugi{
-    background-image: url(Images.html/Jugi_pratteln.jpg);
+    background-image: url(Images/Jugi_pratteln.jpg);
 }
 .Sport{
-    background-image: url(Images.html/Sport_pratteln.jpg);
+    background-image: url(Images/Sport_pratteln.jpg);
 }
 .wandern{
-    background-image: url(Images.html/pratteln-muttenz.jpg);
+    background-image: url(Images/pratteln-muttenz.jpg);
 }
 .Fc{
-    background-image: url(Images.html/FC_Pratteln.jpg);
+    background-image: url(Images/FC_Pratteln.jpg);
 }
 .card h2{
     padding: 10px;
@@ -171,7 +171,7 @@ footer{
     transition: all 0.4s ease;
 }
 .aqua{
-    background-image: url(Images.html/Aqua.webp);
+    background-image: url(Images/Aqua.webp);
 }
 .Geschichte{
     font-family: "Poppins";
@@ -187,7 +187,7 @@ footer{
   rgba(0,0,0,0.6),
   rgba(0,0,0,0.8)
   
-  ), url(Images.html/Geschichte_pratteln.jpg);
+  ), url(Images/Geschichte_pratteln.jpg);
   border-image-width: 100%;
   background-repeat: no-repeat;
   background-size: cover;
