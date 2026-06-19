@@ -52,9 +52,8 @@ header{
   rgba(0, 0, 0, 0.1),
   rgba(0, 0, 0, 0.5),
   rgba(0, 0, 0, 1)
-    ),
-    url("Images/Pratteln_image.jpg");
-
+    ), url(Images/Pratteln_image.jpg);
+    
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
